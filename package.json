@@ -1,0 +1,18 @@
+{
+  "name": "NodePal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
