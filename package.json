@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/IsolatorD/nodepay.git",
   "scripts": {
     "start": "node index.js"
   },
